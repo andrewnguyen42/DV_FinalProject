@@ -1,0 +1,6 @@
+1) ETL
+	-brief dataset intro, variables
+	-breaking dataset up
+
+2) Tableau Stuff
+3) Talk about shiny for the remaining time

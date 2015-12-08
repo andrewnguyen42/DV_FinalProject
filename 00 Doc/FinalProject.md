@@ -17,6 +17,11 @@ two tables: metrics and school information. We could have left our data
 denormalized, but we chose to split the data in to two tables to practice
 joining data in R and Tableau.
 
+We used a modified version of the ETL_R Code provided by Dr. Cannata to extract the data
+we wanted, and upload it to the oracle server. Fortunately, most of the data and column names
+were well-behaved, and so there wasn't much work to do other than selecting the data we wanted
+to use.
+
 ## Shiny Server
 
 [The Shiny server where the visualizations are stored is located here](https://agent509.shinyapps.io/04Shiny)

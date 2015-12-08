@@ -24,7 +24,7 @@ to use.
 
 ## Shiny Server
 
-[The Shiny server where the visualizations are stored is located here](https://agent509.shinyapps.io/04Shiny)
+[The Shiny server where the visualizations are hosted is located here.](https://agent509.shinyapps.io/04Shiny)
 
 
 ## Non-Aggregated Visualization

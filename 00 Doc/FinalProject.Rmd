@@ -1,0 +1,18 @@
+---
+title: "Final Project"
+output: html_document
+---
+
+#ETL
+
+We sourced our data from Jeffrey Wooldridge's Econometrics dataset. During
+the ETL process, we went through a two stage process. First, we had to
+convert the original DTA file (originally for STATA consumption) into a CSV
+using R's DTA reader. After we converted the DTA file into a CSV, we added
+a school identifier to each record. Additionally, we split the dataset into
+two tables: metrics and school information. We could have left our data
+denormalized, but we chose to split the data in to two tables to practice
+joining data in R and Tableau.
+
+
+#Data and Visualizations
